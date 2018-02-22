@@ -1,0 +1,13 @@
+Sparkfun Cherry MX Key Breakout Board (BOB-13773)
+  width: 19.17mm
+  height: 19.17mm
+  depth: 1.65mm
+  
+  screw hole diameter: 2.5mm
+  screw hole radius: 1.25mm
+  screw hole distance from edge (top): .5mm
+  screw hole distance from edge (left): .5mm
+  
+  oriented with led holes on the bottom, jumpers on the underside
+  screw hole 1 offset (x,y): 17.42mm,1.75mm
+  screw hole 2 offset (x,y): 1.75mm,17.42mm
