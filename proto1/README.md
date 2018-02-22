@@ -2,7 +2,7 @@
 
 TOC:
 
-- [Wed Feb 21 2018](#wed-feb-21-2018---attempted-boardmount-new-keycap-print)
+- [Wed Feb 21 2018 - Attempted boardmount, new keycap print](#wed-feb-21-2018---attempted-boardmount-new-keycap-print)
 
 ### Wed Feb 21 2018 - Attempted boardmount, new keycap print
 
