@@ -65,3 +65,11 @@ Files:
 I also created a new keycap design using tinkercad, this time with a round mount instead of the separated rectangular one (which broke after repeated use).
 
 Printed x10, low fi settings, PLA 1.75mm, FlashForge Finder, however was unable to test on key due to time constraints
+
+### Tues Mar 6 2018 - Onshape + new keycap design
+
+Learned a bit about onshape through Youtube tutorials, and tried my hand at making my own keycap in OnShape.
+
+#### Keycap v3, true hexagonal keycap
+
+Link: [cad.onshape.com](https://cad.onshape.com/documents/206ab9c9967d2833452a1128/w/f750cfa8fef73d7353d143ce/e/24ed57f6825c9715cc5a0ab4)
